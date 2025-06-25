@@ -1,0 +1,1 @@
+# SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch
