@@ -1,0 +1,7 @@
+address;original;new;comment
+00156E0C;addiu v1,zero,0x306;addiu v1,zero,0x328;koi-koi round number x position
+0016533C;addiu v1,zero,0x152;addiu v1,zero,0x174;hana-awase round number x position
+00166428;addiu v0,zero,0x4a;addiu v0,zero,0x6c;hana-awase result screen round number x position
+00228B88;cc010000;;oicho-kabu round number 3rd digit x position
+00228B90;ed010000;;oicho-kabu round number 2nd digit x position
+00228B98;0d020000;;oicho-kabu round number 1st digit x position
