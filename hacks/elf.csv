@@ -1,0 +1,7 @@
+offset;change;comment
+00057E0C;28030324;changed round number x position during the game of koi-koi
+0006633C;74010324;changed round number x position during the game of hana-awase
+00067428;6C000224;changed round number x position at the result screen for hana-awase
+00129B88;;oicho-kabu round number 3rd digit x position
+00129B90;;oicho-kabu round number 2nd digit x position
+00129B98;;oicho-kabu round number 1st digit x position
