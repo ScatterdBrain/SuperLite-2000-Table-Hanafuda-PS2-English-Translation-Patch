@@ -1,0 +1,1325 @@
+|folder|;|image|;|j_text|;|e_text|
+|CHR_BD2|;|0001349696_j|;|引き分け
+あなた
+引き分けました|;|Draw
+Player
+Match ended in a tie.|
+|CHR_BD2|;|0001637696_j|;|北海道地区
+東北地区
+北関東地区
+南関東地区|;|Hokkaido
+Tohoku
+North Kanto
+South Kanto|
+|CHR_BD2|;|0001704512_j|;|甲信越地区
+東海地区
+北陸地区
+近畿地区|;|Koshin'etsu
+Tokai
+Hokuriku
+Kinki|
+|CHR_BD2|;|0001771328_j|;|中国地区
+四国地区
+九州地区
+沖縄地区|;|Chugoku
+Shikoku
+Kyushu
+Okinawa|
+|CHR_BD2|;|0001839168_j|;|全国制覇|;|Complete Domination|
+|CHR_BD2|;|0002127168_j|;|○ボタンを押してください|;|Press the ○ button|
+|CHR_BD2|;|0002195520_j|;|松野鶴子|;|Tsuruko Matsuno|
+|CHR_BD2|;|0002330688_j|;|赤井ウメ|;|Ume Akai|
+|CHR_BD2|;|0002465856_j|;|藤田峰男|;|Fujita Mineo|
+|CHR_BD2|;|0002601024_j|;|橋本あやめ|;|Ayame Hashimoto|
+|CHR_BD2|;|0002736192_j|;|丹波長助|;|Chousuke Tanba|
+|CHR_BD2|;|0002871360_j|;|萩尾望|;|Nozomi Hagio|
+|CHR_BD2|;|0002938176_j|;|萩尾望|;|Nozomi Hagio|
+|CHR_BD2|;|0003006528_j|;|桜井蒔雄|;|Makio Sakurai|
+|CHR_BD2|;|0003141696_j|;|鈴木雁之助|;|Gannosuke Suzuki|
+|CHR_BD2|;|0003276864_j|;|坂田菊道|;|Kikumichi Sakata|
+|CHR_BD2|;|0003412032_j|;|鹿野紅夫|;|Kuro Shikano|
+|CHR_BD2|;|0003547200_j|;|小柳道子|;|Michiko Koyanagi|
+|CHR_BD2|;|0003682368_j|;|鳳桐子|;|Kiriko Otori|
+|CHR_BD2|;|0003817664_j|;|あなた
+点
+COM1
+点
+青短
+桐シマ
+花見酒
+表菅原
+赤短
+雨シマ
+月見酒
+のみ
+四光
+藤シマ
+猪鹿蝶
+六短
+五光
+くち
+松桐坊主
+七短|;|Player
+Pts
+CPU1
+Pts
+Blue Ribbons
+Paulownia Row
+Flower Viewing
+Spring
+Poetry Ribbons
+Willow Row
+Moon Viewing
+Drinking
+Four Brights
+Wisteria Row
+Boar, Deer, Butterflies
+Six Ribbons
+Five Brights
+Grass Ribbons
+Paulownia, Pine, Moon
+Seven Ribbons|
+|CHR_BD2|;|0003884480_j|;|親
+子1
+子2
+月
+点|;|Bk(Banker)
+P1
+P2
+Round
+Pts|
+|CHR_BD2|;|0003951296_j - 0004218560_j|;|月
+あなた
+COM1
+COM2
+取札
+出来役
+支払役
+基準点
+合計
+得点
+桐シマ
+花見酒
+表菅原
+青短
+COM2
+点
+雨シマ
+月見酒
+のみ
+赤短
+藤シマ
+猪鹿蝶
+六短
+四光
+くち
+松桐坊主
+七短
+五光|;|Round
+Player
+CPU1
+CPU2
+Card Points
+Yaku Points
+Pay Up
+Par Value
+Total
+Score
+Paulownia Row
+Flower Viewing
+Spring
+Blue Ribbons
+CPU2
+Pts
+Willow Row
+Moon Viewing
+Drinking
+Poetry Ribbons
+Wisteria Row
+Boar, Deer, Butterflies
+Six Ribbons
+Four Brights
+Grass Ribbons
+Paulownia, Pine, Moon
+Seven Ribbons
+Five Brights|
+|CHR_BD2|;|0004285376_j - 0004552640_j|;|あなた
+COM1
+COM2
+1 月
+2 月
+3 月
+4 月
+5 月
+6 月
+合計
+7 月
+10 月
+点
+8 月
+11 月
+9 月
+12 月|;|Player
+CPU1
+CPU2
+Round 1
+Round 2
+Round 3
+Round 4
+Round 5
+Round 6
+Score
+Round 7
+Round 10
+Pts
+Round 8
+Round 11
+Round 9
+Round 12|
+|CHR_BD2|;;;
+|CHR_BD2|;|0004619456_j|;|グームを中断してメニューに戻ります。
+よろしいですか?|;|Quit the game and return to the menu?|
+|CHR_BD2|;|0004686272_j|;|この勝負までのデータをセーブします。
+よろしいですか?|;|Save the progress up to this point?|
+|CHR_BD2|;|0004753088_j|;|戻る
+終了
+はい
+いいえ|;|Return
+Quit Game
+Yes
+No|
+|CHR_BD2|;|0004822592_j|;|対戦終了
+○ボタンを押してください
+○ボタンを押してください
+対戦終了|;|End of Round
+Press the ○ button
+Press the ○ button
+End of Round|
+|CHR_BD2|;|0006326400_j|;|あなた
+貫
+COM
+貫
+親
+子
+引く
+引く
+引かない
+引かない|;|Player
+Pts
+CPU
+Pts
+Bk
+Pl
+Draw Card
+Draw Card
+Don't Draw
+Don't Draw|
+|CHR_BD2|;|0006393216_j|;|ブタ
+ブタ
+ピン
+ピン
+ニゾウ
+ニゾウ
+サンタ
+サンタ|;|Ten
+Ten
+One
+One
+Two
+Two
+Three
+Three|
+|CHR_BD2|;|0006460032_j|;|ヨツヤ
+ヨツヤ
+ゴケ
+ゴケ
+ロッポウ
+ロッポウ
+七ケン
+七ケン
+オイチョ
+オイチョ|;|Four
+Four
+Five
+Five
+Six
+Six
+Seven
+Seven
+Eight
+Eight|
+|CHR_BD2|;|0006526848_j|;|カブ
+カブ
+START
+勝負
+回戦|;|Nine
+Nine
+START
+Showdown
+Round|
+|CHR_BD2|;|0006593664_j|;|シッピン
+シッピン
+クッピン
+クッピン
+アラシ
+アラシ|;|Dealer 4 and 1
+Dealer 4 and 1
+Dealer 9 and 1
+Dealer 9 and 1
+Three of a Kind
+Three of a Kind|
+|CHR_BD2|;|0006660480_j|;|終了
+巣立ち|;|End of Game
+Changing Dealer|
+|CHR_BD2|;|0006798848_j|;|勝
+負|;
+|CHR_BD2|;|0006953152_j|;|文
+文
+カス
+赤短
+三光
+雨四光
+タン
+猪鹿蝶
+親権
+親
+タネ
+花見酒
+四光
+子
+青短
+月見酒
+五光|;|Pts
+Pts
+Chaff
+Poetry Ribbons
+Three Brights
+Rainy Four Brights
+Ribbons
+Boar-Deer-Butterfly
+Dealer's Privilege
+Bk
+Animals
+Flower Viewing
+Four Brights
+Pl
+Blue Ribbons
+Moon Viewing
+Five Brights|
+|CHR_BD2|;|0007019968_j|;|こいこい
+勝負
+合計
+文
+COM
+あなた
+文
+月|;|Koi-Koi
+Shobu
+Total
+Pts
+CPU
+Player
+Pts
+Round|
+|CHR_BD2|;|0007220416_j|;|カス
+赤短
+三光
+雨四光
+タン
+猪鹿蝶
+松桐坊主
+タネ
+花見酒
+四光
+青短
+月見酒
+五光|;|Chaff
+Poetry Ribbons
+Three Brights
+Rainy Four Brights
+Ribbons
+Boar-Deer-Butterfly
+Dealer's Privilege
+Animals
+Flower Viewing
+Four Brights
+Blue Ribbons
+Moon Viewing
+Five Brights|
+|CHR_BD2|;|0007287232_j|;|SELECT ボタン:ウィンドウの非表示|;|SELECT: Hide Window|
+|CHR_BD2|;|0007354048_j|;|松田鶴子
+COM
+あなた
+次へ|;|Tsuruko Matsuda
+CPU
+Player
+Next|
+|CHR_BD2|;|0007821760_j|;|グームを中断してメニューに戻ります。
+よろしいですか?|;|Quit the game and return to the menu?|
+|CHR_BD2|;|0007888576_j|;|この勝負までのデータをセーブします。
+よろしいですか?|;|Save the progress up to this point?|
+|CHR_BD2|;|0007955392_j|;|戻る
+終了
+はい
+いいえ|;|Return
+Quit Game
+Yes
+No|
+|CHR_BD2|;|0009314368_j - 0009381184_j|;|得点
+月
+COM
+あなた|;|Points Scored
+Round
+CPU
+Player|
+|CHR_BD2|;|0009514816_j|;|COM
+合計
+あなた
+合計|;|CPU
+Total
+Player
+Total|
+|CHR_BD2|;|0009581632_j|;|文
+文|;|Pts
+Pts|
+|CHR_BD2|;|0009650368_j - 0009984448_j|;|勝利
+あなたは勝利しました|;|Victory
+You have won this match.|
+|CHR_BD2|;|0010051264_j - 0010385344_j|;|敗北
+あなたは負しました|;|Defeat
+You have lost this match.|
+|CHR_BD2|;|0010452160_j - 0010786240_j|;|引き分け
+引き分けました|;|Draw
+Match ended in a tie.|
+|CHR_BD2|;|0010854464_j|;|敗北
+あなた
+あなたは負しました|;|Defeat
+Player
+You have lost this match.|
+|CHR_BD2|;|0011142464_j|;|北海道地区
+東北地区
+北関東地区
+南関東地区|;|Hokkaido
+Tohoku
+North Kanto
+South Kanto|
+|CHR_BD2|;|0011209280_j|;|甲信越地区
+東海地区
+北陸地区
+近畿地区|;|Koshin'etsu
+Tokai
+Hokuriku
+Kinki|
+|CHR_BD2|;|0011276096_j|;|中国地区
+四国地区
+九州地区
+沖縄地区|;|Chugoku
+Shikoku
+Kyushu
+Okinawa|
+|CHR_BD2|;|0011765824_j|;|メモリ一カ一ド(PS2)が
+差さっていません。|;|Memory card (PS2)
+is not inserted.|
+|CHR_BD2|;|0012053824_j|;|メモリ一カ一ド(PS2)をチェックしています。
+抜き差ししたり、
+本体の電源を切らないでください。|;|Now checking memory card (PS2).
+Do not remove memory cards
+or turn off the console.|
+|CHR_BD2|;|0012445760_j|;|設定
+無し
+ON
+OFF
+ON
+OFF|;|Options
+NONE
+ON
+OFF
+ON
+OFF|
+|CHR_BD2|;|0012733760_j|;|BGM
+効果音
+SE
+無し
+対戦成績
+STEREO
+MONO|;|BGM
+SE
+SE
+NONE
+RECORDS
+STEREO
+MONO|
+|CHR_BD2|;|0012800576_j|;|ON
+OFF
+戻る
+札絵柄アニメ|;|ON
+OFF
+Return
+CARD ANIMATIONS|
+|CHR_BD2|;|0012867712_j - 0013201792_j|;|親決め
+あなた
+COM
+方向キー上下で札を選択して○ボタンで定してください|;|Choosing the Dealer
+Player
+CPU
+Use the D-pad to select a card and confirm with ○ button.|
+|CHR_BD2|;|0013268608_j|;|親
+子|;|Bk
+Pl|
+|CHR_BD2|;|0013335424_j|;|文
+文
+カス
+赤短
+三光
+雨四光
+タン
+猪鹿蝶
+親権
+親
+タネ
+花見酒
+四光
+子
+青短
+月見酒
+五光|;|Pts
+Pts
+Chaff
+Poetry Ribbons
+Three Brights
+Rainy Four Brights
+Ribbons
+Boar-Deer-Butterfly
+Dealer's Privilege
+Bk
+Animals
+Flower Viewing
+Four Brights
+Pl
+Blue Ribbons
+Moon Viewing
+Five Brights|
+|CHR_BD2|;|0013417344_j|;|月|;|Month|
+|CHR_BD2|;|0013486208_j - 0013820288_j|;|親決め
+方向キー上下で札を選択して○ボタンで定してください|;|Choosing the Dealer
+Use the D-pad to select a card and confirm with ○ button.|
+|CHR_BD2|;|0013887104_j|;|親
+あなた
+COM1
+COM2
+子2
+子1|;|BK
+Player
+CPU1
+CPU2
+P2
+P1|
+|CHR_BD2|;|0013953920_j|;|文
+文
+カス
+赤短
+三光
+雨四光
+タン
+猪鹿蝶
+親権
+親
+タネ
+花見酒
+四光
+子
+青短
+月見酒
+五光|;|Pts
+Pts
+Chaff
+Poetry Ribbons
+Three Brights
+Rainy Four Brights
+Ribbons
+Boar-Deer-Butterfly
+Dealer's Privilege
+Bk
+Animals
+Flower Viewing
+Four Brights
+Pl
+Blue Ribbons
+Moon Viewing
+Five Brights|
+|CHR_BD2|;|0014022784_j|;|フリー対戦こいこい
+戦
+勝
+敗
+五光
+回
+四光
+回
+三光
+回
+雨四光
+回
+猪鹿蝶
+回
+花見酒
+回
+月見酒
+回
+赤短
+回
+青短
+回|;|Free Mode Koi-Koi
+Played
+Won
+Lost
+Five Brights
+Times
+Four Brights
+Times
+Three Brights
+Times
+Rainy Four Brights
+Times
+Boar-Deer-Butterfly
+Times
+Flower Viewing
+Times
+Moon Viewing
+Times
+Poetry Ribbons
+Times
+Blue Ribbons
+Times|
+|CHR_BD2|;|0014310784_j|;|フリー対戦花合わせ
+戦
+勝
+敗
+五光
+回
+四光
+回
+のみ
+回
+赤短
+回
+青短
+回
+くさ
+回
+松桐坊主
+回
+表官原
+回
+シマ
+回
+猪鹿蝶
+回
+六短
+回
+七短
+回|;|Free Mode Hana-Awase
+Played
+Won
+Lost
+Five Brights
+Times
+Four Brights
+Times
+Drinking
+Times
+Poetry Ribbons
+Times
+Blue Ribbons
+Times
+Grass Ribbons
+Times
+Pine, Paulownia, Moon
+Times
+Spring
+Times
+Any Row
+Times
+Boar, Deer, Butterflies
+Times
+Six Ribbons
+Times
+Seven Ribbons
+Times|
+|CHR_BD2|;|0014598784_j|;|フリー対戦おいちょかぶ
+戦
+勝
+敗
+親
+回
+シッピン
+回
+クッピン
+回
+アラシ
+回|;|Free Mode Oicho-Kabu
+Played
+Won
+Lost
+Dealer
+Times
+Dealer 4 and 1
+Times
+Dealer 9 and 1
+Times
+Three of a Kind
+Times|
+|CHR_BD2|;|0014886784_j|;|全国制覇モ一ド
+制覇
+戦
+勝
+敗
+五光
+回
+四光
+回
+三光
+回
+雨四光
+回
+猪鹿蝶
+回
+花見酒
+回
+月見酒
+回
+赤短
+回
+青短
+回
+評価|;|Championship Mode
+Conquered
+Played
+Won
+Lost
+Five Brights
+Times
+Four Brights
+Times
+Three Brights
+Times
+Rainy Four Brights
+Times
+Boar-Deer-Butterfly
+Times
+Flower Viewing
+Times
+Moon Viewing
+Times
+Poetry Ribbons
+Times
+Blue Ribbons
+Times
+Rank:|
+|CHR_BD2|;|0015174784_j|;|おいちょかぶ
+花合わせ
+こいこい
+全国制覇
+花合わせ
+全国制覇
+おいちょかぶ
+こいこい|;|Oicho-Kabu
+Hana-Awase
+Koi-Koi
+Championship
+Hana-Awase
+Championship
+Oicho-Kabu
+Koi-Koi|
+|CHR_BD2|;|0015241600_j|;|一級
+六級
+二級
+七級
+三級
+初段
+四級
+二段
+五級
+三段|;|1 Kyu
+6 Kyu
+2 Kyu
+7 Kyu
+3 Kyu
+1 Dan
+4 Kyu
+2 Dan
+5 Kyu
+3 Dan|
+|CHR_BD2|;|0015308416_j|;|四段
+五段
+六段
+七段|;|4 Dan
+5 Dan
+6 Dan
+7 Dan|
+|CHR_BD2|;|0015375232_j|;|北海道地区代表
+東北地区代表
+北関東地区代表
+南関東地区代表
+甲信越地区代表
+東海地区代表
+北陸地区代表
+近畿地区代表|;|Hokkaido region representative
+Tohoku region representative
+North Kanto region representative
+South Kanto region representative
+Koshin'etsu region representative
+Tokai region representative
+Hokuriku region representative
+Kinki region representative|
+|CHR_BD2|;|0015442048_j|;|中国地区代表
+四国地区代表
+九州地区代表
+沖縄地区代表|;|Chugoku region representative
+Shikoku region representative
+Kyushu region representative
+Okinawa region representative|
+|CHR_BD2|;|0015797568_j|;|"SuperLite 2000 テーブル 花札"の
+データの作成に失敗しました。
+はい
+いいえ|;|Failed to create data for
+"SuperLite 2000 Table Hanafuda".
+Yes
+No|
+|CHR_BD2|;|0015864384_j|;|メモリーカード(PS2)がメモリーカード差込口1に差ちっていません。
+このゲームをセーブするには162KB以上の
+空き容量のあるメモリーカード(PS2) が必要です。
+このままゲームを開始しますか?|;|There is no memory card (PS2) in memory card slot 1.
+To save data a memory card
+with at least 162 KB of free space is required.
+Start the game anyway?|
+|CHR_BD2|;|0016152384_j|;|メモリーカード差込口1に差さっている
+メモリーカード(PS2)の空き容量が不足しています。
+このゲームをセーブするには162KB以上の
+空き容量のあるメモリーカード(PS2)が必要です。
+このままゲームを開始しますか?|;|There is not enough free space
+on a memory card (PS2) in memory card slot 1.
+To save data a memory card
+with at least 162 KB of free space is required.
+Start the game anyway?|
+|CHR_BD2|;|0016440384_j|;|"SuperLite 2000 テーブル 花札"のデータが
+壊れている可能性があります。
+ゲーム中でセーブを実行するには、
+壊れたデータをブラウザ上で削除しておく必要があります。
+このままゲームを開始しますか?|;|The data for "SuperLite 2000 Table Hanafuda"
+may be corrupted.
+To save in-game, you must delete
+the corrupted data in the BIOS first.
+Start the game anyway?|
+|CHR_BD2|;|0016730240_j|;|メモリ一カ一ド(PS2)が
+メモリーカード差込口1差さっていません。
+メモリ一カ一ド(PS2)をチェックしています。
+メモリ一カ一ド(PS2)を抜き差ししたり、
+本体の電源を切らないでください。
+|;|There is no memory card (PS2)
+In memory card slot 1.
+Now checking memory card (PS2).
+Do not remove memory cards
+or turn off the console.|
+|CHR_BD2|;|0016993664_j|;|メモリ一カ一ド(PS2)が
+フォーマットされていません。
+フォーマット甲です。
+メモリ一カ一ド(PS2)を抜き差ししたり、
+本体の電源を切らないでください。|;|Memory card (PS2)
+is not formatted.
+Formatting in progress.
+Do not remove memory cards
+or turn off the console.|
+|CHR_BD2|;|0017257088_j|;|フォーマットが終了しました。
+フォーマットに失敗しました。|;|Formatting complete.
+Formatting failed.|
+|CHR_BD2|;|0017520512_j|;|"SuperLite 2000 テーブル 花札"の
+データが壊れている可能性があります。
+セ一ブ中です。
+メモリ一カ一ド(PS2)を抜き差ししたり、
+本体の電源を切らないでください。|;|The data for "SuperLite 2000 Table
+Hanafuda" may be corrupted.
+Saving in progress.
+Do not remove memory cards
+or turn off the consoole.|
+|CHR_BD2|;|0017783936_j|;|セーブに失敗しました。
+ロ一ド中です。
+メモリ一カ一ド(PS2)を抜き差ししたり、
+本体の電源を切らないでください。|;|Failed to save.
+Loading in progress.
+Do not remove memory cards
+or turn off the consoole.|
+|CHR_BD2|;|0018047360_j|;|ロ一ドが終了しました。
+ロ一ドに失敗しました。|;|Loading succesfull.
+Failed to load.|
+|CHR_BD2|;|0018310784_j|;|"SuperLite 2000 テーブル 花札"の
+データがありません。
+"SuperLite 2000 テーブル 花札"の
+データをセーブするにめの空き容量が
+不足しています。
+162KB以上の空き容量が必要です。|;|There is no save data for
+"SuperLite 2000 Table Hanafudda".
+There is not enough free space
+to save data for
+"SuperLite 2000 Table Hanafuda".
+At least 162 KB is required.|
+|CHR_BD2|;|0018575488_j|;|"SuperLite 2000 テーブル 花札"の
+データを作成中です。
+メモリ一カ一ド(PS2)を抜き差ししたり、
+本体の電源を切らないでください。
+"SuperLite 2000 テーブル 花札"の
+データを作成しました。|;|Creating save data for
+"SuperLite 2000 Table Hanafuda".
+Do not remove memory cards
+or turn off the console.
+Created data succesfully.
+|
+|CHR_BD2|;|0018838912_j|;|"SuperLite 2000 テーブル 花札"の
+データを作成に失敗しました。
+フォーマットしますか?|;|Failed to create data.
+
+Format memory card?|
+|CHR_BD2|;|0019102336_j|;|セーブしますか?
+メモリ一カ一ド(PS2)に
+"SuperLite 2000 テーブル 花札"の
+データが存在しています。
+上書きしますか?|;|Save data?
+Save data already exists for
+"SuperLite 2000 Table Hanafuda".
+
+Overwrite it?|
+|CHR_BD2|;|0019365760_j|;|"SuperLite 2000 テーブル 花札"のデータを
+作成してもよろしいですか?
+フリー対戦を続行しますか?|;|Create save data for
+"SuperLite 2000 Table Hanafuda"?
+Continue playing free mode?|
+|CHR_BD2|;|0019629184_j|;|ロ一ドしますか?
+セーブしました。|;|Load data?
+Saved succesfully.|
+|CHR_BD2|;|0019892608_j|;|セーブをしないでゲームを進めます。
+よろしいですか?
+全国制覇モ一ドを続行しますか?|;|Continue without saving?
+
+Continue playing championship mode?|
+|CHR_BD2|;|0020157696_j|;|制覇|;|Conquered|
+|CHR_BD2|;|0020226176_j|;|ゲームを選択してください|;|Select Game|
+|CHR_BD2|;|0020514176_j|;|こいこい
+花合わせ|;|Koi-Koi
+Hana-Awase|
+|CHR_BD2|;;|おいちょかぶ|;|Oicho-Kabu|
+|CHR_BD2|;|0020647808_j - 0020714624_j|;|同じ種類の絵札を合わせて集めた札で、
+役をつくって争います。
+同じ種類の絵札を合わせて
+集めた札の点数と完成した役の合計で勝負します。
+絵扎の季節ごとに1から10の点をつけ、
+2~3枚の合計を"9"(かぶ)に近づけたほうが
+勝ちという遊びです。|;|Players compete to capture cards from the table
+and form scoring combinations known as yaku.
+Players compete to capture cards from the table
+and get points based on values of captured cards,
+with bonus points awarded for forming certain combinations.
+Each card is given the value of its month 1 through 10
+player who gets the total value of 2~3 cards
+closer to the 9 (titular "Kabu") wins.|
+|CHR_BD2|;|0020781440_j|;|こいこい設定
+回
+回
+無し
+文
+文
+あり
+無し|;|Koi-Koi Options
+
+
+NONE
+Pts
+Pts
+ON
+OFF|
+|CHR_BD2|;|0021069440_j|;|対戦回数
+無し
+花見/目見酒
+文
+親権
+文
+回
+回
+あり|;|NUMBER OF ROUNDS
+NONE
+FLOWER/MOON VIEWING
+Pts
+DEALER'S PRIVILEGE
+Pts
+
+
+ON|
+|CHR_BD2|;|0021136256_j|;|無し
+開始|;|OFF
+Start|
+|CHR_BD2|;|0021203072_j|;|花合わせ設定
+回
+回|;|Hana-Awase Options
+
+|
+|CHR_BD2|;|0021491072_j|;|対戦回数
+回
+回
+開始|;|NUMBER OF ROUNDS
+
+
+Start|
+|CHR_BD2|;|0021557888_j|;|おいちょかぶ設定
+回
+回
+無制限
+無制限
+|;|Oicho-Kabu Options
+
+
+NO-LIMIT
+NO-LIMIT|
+|CHR_BD2|;|0021845888_j|;|対戦回数
+胴前
+持点
+無制限
+回
+回
+無制限|;|NUMBER OF ROUNDS
+MAX BET
+FUNDS
+NO-LIMIT
+
+
+NO-LIMIT|
+|CHR_BD2|;|0021912704_j|;|開始|;|Start|
+|CHR_BD2|;|0023133568_j|;|フリー対戦
+全国制覇モ一ド
+設定
+はじめから
+つづきから
+ゲームを続ける|;|Free Mode
+Championship Mode
+Options
+New Game
+Load Data
+Resume Game|
+|CHR_BD2|;|0024090752_j|;|勝利 
+あなた
+あなたは勝利しました|;|Victory
+Player
+You have won this match.|
+|CHR_BD2|;|0024378752_j|;|北海道地区
+東北地区
+北関東地区
+南関東地区|;|Hokkaido
+Tohoku
+North Kanto
+South Kanto|
+|CHR_BD2|;|0024445568_j|;|甲信越地区
+東海地区
+北陸地区
+近畿地区|;|Koshin'etsu
+Tokai
+Hokuriku
+Kinki|
+|CHR_BD2|;|0024512384_j|;|中国地区
+四国地区
+九州地区
+沖縄地区|;|Chugoku
+Shikoku
+Kyushu
+Okinawa|
+|CHR_BD2|;|0024579200_j|;|あと1勝で制覇
+あと2勝で制覇
+あと3勝で制覇
+あと4勝で制覇
+あと5勝で制覇|;|1 victory to conquer.
+2 victories to conquer.
+3 victories to conquer.
+4 victories to conquer.
+5 victories to conquer.|
+|CHR_BD2|;|0024646016_j|;|制覇
+あなた
+地区を制覇しました|;|Conquered
+Player
+You have taken over the region.|
+|CHR_BD2|;|0025301184_j|;|自分の地域を選んでください
+全国制覇モ一ド|;|Select the region you want to represent.
+National Championship Mode|
+|CHR_BD2|;|0025589184_j|;|全国制覇モ一ド|;|National Championship Mode|
+|CHR_BD2|;|0025877184_j|;|北海道
+東北
+松野鶴子
+赤井ウメ
+年齢 24
+年齢 76
+OL
+産婆
+強 ☆☆
+強 ☆☆☆
+性格 普通
+性格 普通
+対戦しますか?
+対戦相手を選んでください|;|Hokkaido
+Tohoku
+Tsuruko Matsuno
+Ume Akai
+Age: 24
+Age: 76
+Office Lady
+Midwife
+Skill: ☆☆
+Skill: ☆☆☆
+Type: Normal
+Type: Normal
+Challenge them?
+Choose your opponent.|
+|CHR_BD2|;|0025944000_j|;|北関東
+南関東
+藤田峰男
+橋本あやめ
+年齢 45
+年齢 13
+サラリーマン
+中学生
+強 ☆☆☆
+強 ☆
+性格 弱気
+性格 弱気|;|North Kanto
+South Kanto
+Fujita Mineo
+Ayame Hashimoto
+Age: 45
+Age: 13
+Salaryman
+JHS student
+Skill: ☆☆☆
+Skill: ☆
+Type: Cautious
+Type: Cautious|
+|CHR_BD2|;|0026010816_j|;|甲信越
+東海
+丹波長助
+萩尾望
+年齢 34
+年齢 26
+漁師
+若女将
+強 ☆☆
+強 ☆☆
+性格 弱気
+性格 普通|;|Koshin'etsu
+Tokai
+Chousuke Tanba
+Nozomi Hagio
+Age: 34
+Age: 26
+Fisherman
+Young Proprietress
+Skill: ☆☆
+Skill: ☆☆
+Type: Cautious
+Type: Normal|
+|CHR_BD2|;|0026077632_j|;|北陸
+近畿
+桜井蒔雄
+鈴木雁之助
+年齢 16
+年齢 38
+高校生
+デザイナー
+強 ☆
+強 ☆☆☆
+性格 弱気
+性格 弱気|;|Hokuriku
+Kinki
+Makio Sakurai
+Gannosuke Suzuki
+Age: 16
+Age: 38
+HS Student
+Designer
+Skill: ☆
+Skill: ☆☆☆
+Type: Cautious
+Type: Cautious|
+|CHR_BD2|;|0026144448_j|;|中国
+四国
+坂田菊道
+鹿野紅夫
+年齢 84
+年齢 24
+隠居の身
+フリーター
+強 ☆
+強 ☆☆☆
+性格 弱気
+性格 普通|;|Chugoku
+Shikoku
+Kikumichi Sakata
+Kuro Shikano
+Age: 84
+Age: 24
+Retired
+Part-time worker
+Skill: ☆
+Skill: ☆☆☆
+Type: Cautious
+Type: Normal
+|
+|CHR_BD2|;|0026211264_j|;|九州
+沖縄
+小柳道子
+鳳桐子
+年齢 41
+年齢 19
+主婦
+サーファー
+強 ☆☆
+強 ☆
+性格 強気
+性格 普通|;|Kyushu
+Okinawa
+Michiko Koyanagi
+Kiriko Otori
+Age: 41
+Age: 19
+Hosewife
+Surfer
+Skill: ☆☆
+Skill: ☆
+Type: Stubborn
+Type: Normal
+|
+|CHR_BD2|;|0026278080_j|;|北海道地区代表。日曜日は
+家族で花札するのがきまり。
+はい
+東北地区代表。陽気のいい日
+は孫と花札するのが楽しみ。
+いいえ|;|Representative of Hokkaido region. She plays
+hanafuda with her family every Sunday.
+Yes
+Representatiove of Tohoku region. Enjoys playing
+hanafuda with her grandchildren when they visit.
+No|
+|CHR_BD2|;|0026344896_j|;|北関東地区代表。会社で辛い
+毎日で花札だけが憩いの場。
+南関東地区代表。毎日朝線に
+いそしむスポーツ少女。|;|Representative of North Kanto region. Plays
+hanafuda to relax after a day of hard work.
+Representative of South Kanto region. Highly
+competitive girl who practices every morning.|
+|CHR_BD2|;|0026411712_j|;|甲信越地区代表。競馬と
+花札が大好き。
+東海地区代表。20代続いた
+名家の跡取り。|;|Representative of Koshin'etsu region. Loves
+horse races and hanafuda games.
+Representative of Tokai region. Heiress to a
+wealthy family that existed for 20 generations.|
+|CHR_BD2|;|0026478528_j|;|北陸地区代表。お祭好きの
+賑やかな性格。
+近畿地区代表。夜型人間で計
+算高いデザイナー。|;|Representative of Hokuriku region. Cheerful guy
+who likes festivals.
+Representative of Kinki region. He's a night owl
+and a meticulous designer.|
+|CHR_BD2|;|0026545344_j|;|中国地区代表。無類の酒飲み
+で、菊に盃の札が大好き。
+四国地区代表。地元意識が強
+く、お好み焼きが大好物。|;|Representative of Chugoku region. An avid
+drinker, his favourite card is "sake cup".
+Representative of Shikoku region. He loves his
+hometown and okonomiyaki.|
+|CHR_BD2|;|0026612160_j|;|九州地区代表。ペットショッ
+プにとめる。猫が好き。
+沖縄地区代表。サーフィンと
+花嫁、そして花札も修業中。|;|Representative of Kyushu region. She's a cat lover
+and works at a pet shop.
+Representative of Okinawa region. Surfer, future
+bride AND a hanafuda player!|
+|CHR_BD2|;|0026678976_j|;|あと5勝で制覇
+あと4勝で制覇
+あと3勝で制覇
+あと2勝で制覇
+あと1勝で制覇
+制覇|;|5 victories to conquer.
+4 victories to conquer.
+3 victories to conquer.
+2 victories to conquer.
+1 victory to conquer.
+Conquered.|
+|CHR_BD2|;|0027148480_j|;|自分の地域を選んでください
+全国制覇モ一ド|;|Select the region you want to represent.
+National Championship Mode|
+|CHR_BD2|;|0028238272_j|;|北海道地区代表。日曜日は
+家族で花札するのがきまり。
+はい
+東北地区代表。陽気のいい日
+は孫と花札するのが楽しみ。
+いいえ|;|Representative of Hokkaido region. She plays
+hanafuda with her family every Sunday.
+Yes
+Representatiove of Tohoku region. Enjoys playing
+hanafuda with her grandchildren when they visit.
+No|
+|CHR_BD2|;|0028305088_j|;|北関東地区代表。会社で辛い
+毎日で花札だけが憩いの場。
+南関東地区代表。毎日朝線に
+いそしむスポーツ少女。|;|Representative of North Kanto region. Plays
+hanafuda to relax after a day of hard work.
+Representative of South Kanto region. Highly
+competitive girl who practices every morning.|
+|CHR_BD2|;|0028371904_j|;|甲信越地区代表。競馬と
+花札が大好き。
+東海地区代表。20代続いた
+名家の跡取り。|;|Representative of Koshin'etsu region. Loves
+horse races and hanafuda games.
+Representative of Tokai region. Heiress to a
+wealthy family that existed for 20 generations.|
+|CHR_BD2|;|0028438720_j|;|北陸地区代表。お祭好きの
+賑やかな性格。
+近畿地区代表。夜型人間で計
+算高いデザイナー。|;|Representative of Hokuriku region. Cheerful guy
+who likes festivals.
+Representative of Kinki region. He's a night owl
+and a meticulous designer.|
+|CHR_BD2|;|0028505536_j|;|中国地区代表。無類の酒飲み
+で、菊に盃の札が大好き。
+四国地区代表。地元意識が強
+く、お好み焼きが大好物。|;|Representative of Chugoku region. An avid
+drinker, his favourite card is "sake cup".
+Representative of Shikoku region. He loves his
+hometown and okonomiyaki.|
+|CHR_BD2|;|0028572352_j|;|九州地区代表。ペットショッ
+プにとめる。猫が好き。
+沖縄地区代表。サーフィンと
+花嫁、そして花札も修業中。|;|Representative of Kyushu region. She's a cat lover
+and works at a pet shop.
+Representative of Okinawa region. Surfer, future
+bride AND a hanafuda player!|
+|CHR_BD2|;|0028639168_j|;|あと5勝で制覇
+あと4勝で制覇
+あと3勝で制覇
+あと2勝で制覇
+あと1勝で制覇
+制覇|;|5 victories to conquer.
+4 victories to conquer.
+3 victories to conquer.
+2 victories to conquer.
+1 victory to conquer.
+Conquered.|
+|CHR_BD2|;|0028706880_j|;|全国制覇モ一ド|;|National Championship Mode|
+|CHR_BD2|;|0028994880_j|;|○ボタンを押してください|;|Press the ○ button|
+|CHR_BD2|;|0029061696_j|;|全国制覇モ一ド|;|National Championship Mode|
+|CHR_BD2|;|0030841536_j|;|あと5勝で制覇
+あと4勝で制覇
+あと3勝で制覇
+あと2勝で制覇
+あと1勝で制覇
+制覇|;|5 victories to conquer.
+4 victories to conquer.
+3 victories to conquer.
+2 victories to conquer.
+1 victory to conquer.
+Conquered.|
+|CHR_BD2|;|0030908480_j|;|全国制覇モ一ド|;|National Championship Mode|
+|CHR_BD2|;|0031196480_j|;|○ボタンを押してください|;|Press the ○ button|
