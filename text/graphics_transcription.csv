@@ -26,7 +26,7 @@ Shikoku
 Kyushu
 Okinawa"
 "CHR_BD2";"0001839168_j";"全国制覇";"Complete Domination"
-"CHR_BD2";"0002127168_j";"○ボタンを押してください";"Press the ○ button"
+"CHR_BD2";"0002127168_j";"○ボタンを押してください";"Press the × button"
 "CHR_BD2";"0002195520_j";"松野鶴子";"Tsuruko Matsuno"
 "CHR_BD2";"0002330688_j";"赤井ウメ";"Ume Akai"
 "CHR_BD2";"0002465856_j";"藤田峰男";"Fujita Mineo"
@@ -61,7 +61,7 @@ COM1
 松桐坊主
 七短";"Player
 Pts
-CPU1
+COM 1
 Pts
 Blue Ribbons
 Paulownia Row
@@ -117,8 +117,8 @@ COM2
 七短
 五光";"Round
 Player
-CPU1
-CPU2
+COM 1
+COM 2
 Card Points
 Yaku Points
 Pay Up
@@ -129,7 +129,7 @@ Paulownia Row
 Flower Viewing
 Spring
 Blue Ribbons
-CPU2
+COM 2
 Pts
 Willow Row
 Moon Viewing
@@ -160,8 +160,8 @@ COM2
 11 月
 9 月
 12 月";"Player
-CPU1
-CPU2
+COM 1
+COM 2
 Round 1
 Round 2
 Round 3
@@ -191,8 +191,8 @@ No"
 ○ボタンを押してください
 ○ボタンを押してください
 対戦終了";"End of Round
-Press the ○ button
-Press the ○ button
+Press the × button
+Press the × button
 End of Round"
 "CHR_BD2";"0006326400_j";"あなた
 貫
@@ -205,7 +205,7 @@ COM
 引かない
 引かない";"Player
 Pts
-CPU
+COM
 Pts
 Bk
 Pl
@@ -220,14 +220,14 @@ Don't Draw"
 ニゾウ
 ニゾウ
 サンタ
-サンタ";"Ten
-Ten
-One
-One
-Two
-Two
-Three
-Three"
+サンタ";"10 ""Buta""
+10 ""Buta""
+1 ""Pin""
+1 ""Pin""
+2 ""Nizo""
+2 ""Nizo""
+3 ""Santa""
+3 ""Santa"""
 "CHR_BD2";"0006460032_j";"ヨツヤ
 ヨツヤ
 ゴケ
@@ -237,22 +237,22 @@ Three"
 七ケン
 七ケン
 オイチョ
-オイチョ";"Four
-Four
-Five
-Five
-Six
-Six
-Seven
-Seven
-Eight
-Eight"
+オイチョ";"4 ""Yotsuya""
+4 ""Yotsuya""
+5 ""Gosu""
+5 ""Gosu""
+6 ""Roppo""
+6 ""Roppo""
+7 ""Nanaken""
+7 ""Nanaken""
+8 ""Oicho""
+8 ""Oicho"""
 "CHR_BD2";"0006526848_j";"カブ
 カブ
 START
 勝負
-回戦";"Nine
-Nine
+回戦";"9 ""Kabu""
+9 ""Kabu""
 START
 Showdown
 Round"
@@ -316,7 +316,7 @@ COM
 Shobu
 Total
 Pts
-CPU
+COM
 Player
 Pts
 Round"
@@ -350,7 +350,7 @@ Five Brights"
 COM
 あなた
 次へ";"Tsuruko Matsuda
-CPU
+COM
 Player
 Next"
 "CHR_BD2";"0007821760_j";"グームを中断してメニューに戻ります。
@@ -369,12 +369,12 @@ No"
 COM
 あなた";"Points Scored
 Round
-CPU
+COM
 Player"
 "CHR_BD2";"0009514816_j";"COM
 合計
 あなた
-合計";"CPU
+合計";"COM
 Total
 Player
 Total"
@@ -460,8 +460,8 @@ CARD ANIMATIONS"
 COM
 方向キー上下で札を選択して○ボタンで定してください";"Choosing the Dealer
 Player
-CPU
-Use the D-pad to select a card and confirm with ○ button."
+COM
+Use the D-pad to select a card and confirm with × button."
 "CHR_BD2";"0013268608_j";"親
 子";"Bk
 Pl"
@@ -501,7 +501,7 @@ Five Brights"
 "CHR_BD2";"0013417344_j";"月";"Month"
 "CHR_BD2";"0013486208_j - 0013820288_j";"親決め
 方向キー上下で札を選択して○ボタンで定してください";"Choosing the Dealer
-Use the D-pad to select a card and confirm with ○ button."
+Use the D-pad to select a card and confirm with × button."
 "CHR_BD2";"0013887104_j";"親
 あなた
 COM1
@@ -509,8 +509,8 @@ COM2
 子2
 子1";"BK
 Player
-CPU1
-CPU2
+COM1
+COM2
 P2
 P1"
 "CHR_BD2";"0013953920_j";"文
@@ -1321,4 +1321,4 @@ Conquered."
 1 victory to conquer.
 Conquered."
 "CHR_BD2";"0030908480_j";"全国制覇モ一ド";"National Championship Mode"
-"CHR_BD2";"0031196480_j";"○ボタンを押してください";"Press the ○ button"
+"CHR_BD2";"0031196480_j";"○ボタンを押してください";"Press the × button"
