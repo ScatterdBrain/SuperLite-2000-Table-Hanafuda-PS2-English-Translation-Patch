@@ -2,6 +2,8 @@ An English translation patch for "SuperLite 2000 Table Hanafuda" [SLPM-62487] PS
 
 Patch file was created with Delta Patcher 3.1.5 and was tested with MD5: 4c0c84f0314c37af9d272f23c355d064 copy of the game.
 
+For 1.1 you will need to download both z01 and zip files into the same folder as it is a split archive.
+
 Don't forget to make a backup of your game before patching!
 
 If you experience any issues with the patch or notice any mistakes you can create an issue on GitHub
@@ -10,3 +12,4 @@ or contact me on discord.
 username: scatterdbrain
 
 Check https://github.com/ScatterdBrain?tab=repositories for other stuff.
+
