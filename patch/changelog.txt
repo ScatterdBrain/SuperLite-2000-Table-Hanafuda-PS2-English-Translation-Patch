@@ -1,0 +1,9 @@
+ver 1.0 25.06.2025
+  - initial release
+
+ver 1.1 05.12.2025
+  - fixed typos
+  - redone graphics
+  - translated credits video sequence
+  - swaped × and ○ buttons
+  - increased size of yaku indicators during koi-koi and hana-awase 
