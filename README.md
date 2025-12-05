@@ -12,7 +12,7 @@ Information provided by [Fuda Wiki](https://fudawiki.org/) was used for yaku nam
 * [MKPSXISO](https://github.com/Lameguy64/mkpsxiso) - Extraction and rebuilding of BIN image.
 * [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) - Creation of patch file.
 
- \
+## Screenshots
 ![Game Selection](screenshots/game_select.png)
 ![Koi Koi](screenshots/koi_koi.png)
 ![Victory](screenshots/championship_victory.png) 
