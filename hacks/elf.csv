@@ -1,7 +1,178 @@
-|offset|;|change|;|description|
-|00057E0C|;|28030324|;|changed round number x position during the game of koi-koi|
-|0006633C|;|74010324|;|changed round number x position during the game of hana-awase|
-|00067428|;|6C000224|;|changed round number x position at the result screen for hana-awase|
-|00129B88|;;|oicho-kabu round number 3rd digit x position|
-|00129B90|;;|oicho-kabu round number 2nd digit x position|
-|00129B98|;;|oicho-kabu round number 1st digit x position|
+"memory_address";"file_offset";"bytes_change";"code_change";"description"
+;;;;
+"00156E0C";"00057E0C";"28030324";"addiu v1,zero,0x328";"move round number to the right during the game of koi-koi"
+"0016533C";"0006633C";"74010324";"addiu v1,zero,0x174";"move round number to the right during the game of hana-awase"
+"00166428";"00067428";"6C000224";"addiu v0,zero,0x6C";"move round number to the right during the result screen for hana-awase"
+;;;;
+"00228B88";"00129B88";;;"oicho-kabu round number 3rd digit x position"
+"00228B90";"00129B90";;;"oicho-kabu round number 2nd digit x position"
+"00228B98";"00129B98";;;"oicho-kabu round number 1st digit x position"
+;;;;
+"001BE404";"000BF404";"82000424";"addiu a0,zero,0x82";"extend nozomi hagio profile graphic"
+"001BE40C";"000BF40C";"82000324";"addiu v1,zero,0x82";
+;;;;
+"001042B0";"000052B0";"0000C28F";"lw v0,0x0(fp)";"swap × and ○ buttons"
+"001042B4";"000052B4";"1300C393";"lbu v1,0x13(fp)";"this code flips bits for × and ○ button presses"
+"001042B8";"000052B8";"60006430";"andi a0,v1,0x0060";"works on a global scale"
+"001042BC";"000052BC";"FFFF8524";"addiu a1,a0,-0x1";
+"001042C0";"000052C0";"5F00A52C";"sltiu a1,a1,0x005F";
+"001042C4";"000052C4";"0200A010";"beq a1,zero,0x001042D0";
+"001042C8";"000052C8";"1200C493";"lbu a0,0x12(fp)";
+"001042CC";"000052CC";"60006338";"xori v1,v1,0x0060";
+"001042D0";"000052D0";"00220400";"sll a0,a0,0x08";
+"001042D4";"000052D4";"25206400";"or a0,v1,a0";
+"001042D8";"000052D8";"FFFF0524";"addiu a1,zero,-0x1";
+"001042DC";"000052DC";"26188500";"xor v1,a0,a1";
+"001042E0";"000052E0";"420043A4";"sh v1,0x42(v0)";
+"001042E4";"000052E4";"1400C393";"lbu v1,0x14(fp)";
+"001042E8";"000052E8";"4C0043A4";"sh v1,0x4C(v0)";
+"001042EC";"000052EC";"1500C393";"lbu v1,0x15(fp)";
+"001042F0";"000052F0";"4E0043A4";"sh v1,0x4E(v0)";
+"001042F4";"000052F4";"1600C393";"lbu v1,0x16(fp)";
+"001042F8";"000052F8";"480043A4";"sh v1,0x48(v0)";
+"001042FC";"000052FC";"1700C393";"lbu v1,0x17(fp)";
+"00104300";"00005300";"4A0043A4";"sh v1,0x4A(v0)";
+"00104304";"00005304";"0C00C0AF";"sw zero,0xC(fp)";
+"00104308";"00005308";"0C00C28F";"lw v0,0xC(fp)";
+;;;;
+"00224500";"00125500";"3C000000";;"increase x size of chaff yaku indicator during the game of koi-koi"
+"00224504";"00125504";"1C000000";;"increase y size of chaff yaku indicator during the game of koi-koi"
+"00224528";"00125528";"3C000000";;"size of chaff indicator also affects spacing of the rest"
+"0022452C";"0012552C";"1C000000";;
+"00224550";"00125550";"3C000000";;
+"00224554";"00125554";"1C000000";;
+"00224578";"00125578";"3C000000";;
+"0022457C";"0012557C";"1C000000";;
+"002245A0";"001255A0";"3C000000";;
+"002245A4";"001255A4";"1C000000";;
+"002245C8";"001255C8";"3C000000";;
+"002245CC";"001255CC";"1C000000";;
+"002245F0";"001255F0";"3C000000";;
+"002245F4";"001255F4";"1C000000";;
+"00224618";"00125618";"3C000000";;
+"0022461C";"0012561C";"1C000000";;
+"00224640";"00125640";"3C000000";;
+"00224644";"00125644";"1C000000";;
+"00224668";"00125668";"3C000000";;
+"0022466C";"0012566C";"1C000000";;
+"00224690";"00125690";"3C000000";;
+"00224694";"00125694";"1C000000";;
+"002246B8";"001256B8";"3C000000";;
+"002246BC";"001256BC";"1C000000";;
+"002246E0";"001256E0";"3C000000";;
+"002246E4";"001256E4";"1C000000";;
+"00224C08";"00125C08";"3C000000";;"lit yellow chaff indicator"
+"00224C0C";"00125C0C";"1C000000";;"reason why there is less lit indicators"
+"00224C30";"00125C30";"3C000000";;"is because there is not one for dealers privilege"
+"00224C34";"00125C34";"1C000000";;
+"00224C58";"00125C58";"3C000000";;
+"00224C5C";"00125C5C";"1C000000";;
+"00224C80";"00125C80";"3C000000";;
+"00224C84";"00125C84";"1C000000";;
+"00224CA8";"00125CA8";"3C000000";;
+"00224CAC";"00125CAC";"1C000000";;
+"00224CD0";"00125CD0";"3C000000";;
+"00224CD4";"00125CD4";"1C000000";;
+"00224CF8";"00125CF8";"3C000000";;
+"00224CFC";"00125CFC";"1C000000";;
+"00224D20";"00125D20";"3C000000";;
+"00224D24";"00125D24";"1C000000";;
+"00224D48";"00125D48";"3C000000";;
+"00224D4C";"00125D4C";"1C000000";;
+"00224D70";"00125D70";"3C000000";;
+"00224D74";"00125D74";"1C000000";;
+"00224D98";"00125D98";"3C000000";;
+"00224D9C";"00125D9C";"1C000000";;
+"00224DC0";"00125DC0";"3C000000";;
+"00224DC4";"00125DC4";"1C000000";;
+;;;;
+"00157408";"00058408";"00008324";"addiu v1,a0,0x0";"move first row yaku indicators for opponent to the right during the game of koi-koi"
+"00157458";"00058458";"00006424";"addiu a0,v1,0x0";"move second row yaku indicators for opponent to the right during the game of koi-koi"
+"0015741C";"0005841C";"3E004324";"addiu v1,v0,0x3E";"move first row yaku indicators for opponent up during the game of koi-koi"
+"0015747C";"0005847C";"3E004324";"addiu v1,v0,0x3E";"move second row yaku indicators for opponent up during the game of koi-koi"
+"00157B7C";"00058B7C";"01006224";"addiu v0,v1,0x1";"move right digit of chaff count for opponent to the right during the game of koi-koi"
+"00157B9C";"00058B9C";;;"y position"
+"00157C5C";"00058C5C";"FDFF8324";"addiu v1,a0,-0x3";"move left digit of chaff count for opponent to the right during the game of koi-koi"
+"00157C70";"00058C70";;;"y position"
+;;;;
+"00157514";"00058514";"00008324";"addiu v1,a0,0x0";"move first row yaku indicators for player to the right during the game of koi-koi"
+"00157564";"00058564";"00006424";"addiu a0,v1,0x0";"move second row yaku indicators for player to the right during the game of koi-koi"
+"00157528";"00058528";;;"first row y position"
+"00157588";"00058588";;;"second row y position"
+"00157D88";"00058D88";"0B008324";"addiu v1,a0,0xB";"move right digit of chaff count for player to the right during the game of koi-koi"
+"00157DAC";"00058DAC";"D0FF6224";"addiu v0,v1,-0x30";"move right digit of chaff count for player down during the game of koi-koi"
+"00157E54";"00058E54";"0B008324";"addiu v1,a0,0xB";"move left digit of chaff count for player to the right during the game of koi-koi"
+"00157E9C";"00058E9C";"D0FF6224";"addiu v0,v1,-0x30";"move left digit of chaff count for player down during the game of koi-koi"
+;;;;
+"00159F28";"0005AF28";"A5000224";"addiu v0,zero,0xA5";"move right digit of chaff count to the right during koi-koi result screen"
+"00159F38";"0005AF38";"5042013C";"lui at,0x4250";"move right digit of chaff count down during koi-koi result screen"
+"00159FCC";"0005AFCC";"A5000324";"addiu v1,zero,0xA5";"move left digit of chaff count to the right during koi-koi result screen"
+"00159FE4";"0005AFE4";"5042013C";"lui at,0x4250";"move left digit of chaff count down during koi-koi result screen"
+;;;;
+"00226648";"00127648";"3C000000";;"increase x size of paulownia row yaku indicator during the game of hana-awase"
+"0022664C";"0012764C";"1C000000";;"increase y size of paulownia row yaku indicator during the game of hana-awase"
+"00226670";"00127670";"3C000000";;"size of paulownia row indicator also affects spacing of the rest"
+"00226674";"00127674";"1C000000";;
+"00226698";"00127698";"3C000000";;
+"0022669C";"0012769C";"1C000000";;
+"002266C0";"001276C0";"3C000000";;
+"002266C4";"001276C4";"1C000000";;
+"002266E8";"001276E8";"3C000000";;
+"002266EC";"001276EC";"1C000000";;
+"00226710";"00127710";"3C000000";;
+"00226714";"00127714";"1C000000";;
+"00226738";"00127738";"3C000000";;
+"0022673C";"0012773C";"1C000000";;
+"00226760";"00127760";"3C000000";;
+"00226764";"00127764";"1C000000";;
+"00226788";"00127788";"3C000000";;
+"0022678C";"0012778C";"1C000000";;
+"002267B0";"001277B0";"3C000000";;
+"002267B4";"001277B4";"1C000000";;
+"002267D8";"001277D8";"3C000000";;
+"002267DC";"001277DC";"1C000000";;
+"00226800";"00127800";"3C000000";;
+"00226804";"00127804";"1C000000";;
+"00226828";"00127828";"3C000000";;
+"0022682C";"0012782C";"1C000000";;
+"00226850";"00127850";"3C000000";;
+"00226854";"00127854";"1C000000";;
+"00226878";"00127878";"3C000000";;
+"0022687C";"0012787C";"1C000000";;
+"002268A0";"001278A0";"3C000000";;
+"002268A4";"001278A4";"1C000000";;
+"00226F80";"00127F80";"3C000000";;"lit yellow paulownia row indicator"
+"00226F84";"00127F84";"1C000000";;
+"00226FA8";"00127FA8";"3C000000";;
+"00226FAC";"00127FAC";"1C000000";;
+"00226FD0";"00127FD0";"3C000000";;
+"00226FD4";"00127FD4";"1C000000";;
+"00226FF8";"00127FF8";"3C000000";;
+"00226FFC";"00127FFC";"1C000000";;
+"00227020";"00128020";"3C000000";;
+"00227024";"00128024";"1C000000";;
+"00227048";"00128048";"3C000000";;
+"0022704C";"0012804C";"1C000000";;
+"00227070";"00128070";"3C000000";;
+"00227074";"00128074";"1C000000";;
+"00227098";"00128098";"3C000000";;
+"0022709C";"0012809C";"1C000000";;
+"002270C0";"001280C0";"3C000000";;
+"002270C4";"001280C4";"1C000000";;
+"002270E8";"001280E8";"3C000000";;
+"002270EC";"001280EC";"1C000000";;
+"00227110";"00128110";"3C000000";;
+"00227114";"00128114";"1C000000";;
+"00227138";"00128138";"3C000000";;
+"0022713C";"0012813C";"1C000000";;
+"00227160";"00128160";"3C000000";;
+"00227164";"00128164";"1C000000";;
+"00227188";"00128188";"3C000000";;
+"0022718C";"0012818C";"1C000000";;
+"002271B0";"001281B0";"3C000000";;
+"002271B4";"001281B4";"1C000000";;
+"002271D8";"001281D8";"3C000000";;
+"002271DC";"001281DC";"1C000000";;
+;;;;
+"00165980";"00066980";"FEFF8324";"addiu v1,a0,-0x2";"move first? row yaku indicators for player to the right during the game of hana-awase"
+"00165994";"00066994";;;"y position"
