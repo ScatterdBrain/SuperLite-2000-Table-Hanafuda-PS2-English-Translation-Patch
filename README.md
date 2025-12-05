@@ -1,7 +1,8 @@
 # SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch
 An English translation patch for "SuperLite 2000 Table Hanafuda" [SLPM-62487] PS2 game published by SUCCESS. \
 Information provided by [Fuda Wiki](https://fudawiki.org/) was used for yaku names, game descriptions and some other game terminology.
-### Patch is in xdelta format and was tested with MD5: 4c0c84f0314c37af9d272f23c355d064 copy of the game.
+
+**Patch is in xdelta format and was tested with MD5: 4c0c84f0314c37af9d272f23c355d064 copy of the game.**
 
 ## Features:
 * All in-game text and UI/Menus were translated from Japanese to English.
