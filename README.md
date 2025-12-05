@@ -1,13 +1,18 @@
 # SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch
 An English translation patch for "SuperLite 2000 Table Hanafuda" [SLPM-62487] PS2 game published by SUCCESS. \
-All in-game text and UI/Menus were translated from Japanese to English. \
-Information provided by [Fuda Wiki](https://fudawiki.org/) was used for yaku names, game descriptions and some other game terminology. \
-Patch is in xdelta format and was tested with MD5: 4c0c84f0314c37af9d272f23c355d064 copy of the game. \
-\
-Tools used: \
-[PCSX2](https://pcsx2.net/) - Debugging. \
-[MKPSXISO](https://github.com/Lameguy64/mkpsxiso) - Extraction and rebuilding of BIN image. \
-[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) - Creation of patch file. \
-![WIP1](screenshots/Game_Select.png) \
-![WIP2](screenshots/Koi_Koi.png) \
-![WIP3](screenshots/Championship_Victory.png) \
+Information provided by [Fuda Wiki](https://fudawiki.org/) was used for yaku names, game descriptions and some other game terminology.
+### Patch is in xdelta format and was tested with MD5: 4c0c84f0314c37af9d272f23c355d064 copy of the game.
+
+## Features:
+* All in-game text and UI/Menus were translated from Japanese to English.
+* Swapped × and ○ button inputs.
+
+## Tools used:
+* [PCSX2](https://pcsx2.net/) - Debugging.
+* [MKPSXISO](https://github.com/Lameguy64/mkpsxiso) - Extraction and rebuilding of BIN image.
+* [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) - Creation of patch file.
+
+ \
+![Game Selection](screenshots/game_select.png)
+![Koi Koi](screenshots/koi_koi.png)
+![Victory](screenshots/championship_victory.png) 
